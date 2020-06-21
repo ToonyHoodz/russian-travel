@@ -1,0 +1,29 @@
+.place__website{
+width: 52%;
+}
+
+
+@media screen and (max-width: 1280px) {
+	.place__website{
+		margin-left: 40px;
+	}
+}
+
+@media screen and (max-width: 1024px) {
+	.place__website{
+		margin-left: 32px;
+	}
+}
+
+@media screen and (max-width: 934px) {
+	.place__website{
+		margin-left: 52px;
+	}
+}
+
+
+@media screen and (max-width: 767px) {
+	.place__website{
+		display: none;
+	}
+}

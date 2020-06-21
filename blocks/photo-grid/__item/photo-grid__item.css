@@ -1,0 +1,26 @@
+
+.photo-grid__item{
+  max-width: 100%;
+  object-fit: cover;
+}
+
+@media screen and (max-width: 1024px) {
+	.phoro-grid__item{
+		max-width: 300px;
+		min-height: 225px;
+	}
+}
+
+@media screen and (max-width: 768px) {
+	.phoro-grid__item{
+		max-width: 352px;
+		min-height: 392px;
+	}
+}
+
+@media screen and (max-width: 320px) {
+	.phoro-grid__item{
+		max-width: 288px;
+		min-height: 216px;
+	}
+}

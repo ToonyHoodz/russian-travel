@@ -1,0 +1,15 @@
+.place__website-url{
+	display: block;
+	font-family: 'Inter';
+	font-style: normal;
+	font-weight: 500;
+	font-size: 12px;
+	line-height: 1;
+	color: #AAA;
+	margin-bottom: 12px;
+	letter-spacing: 0.2em;
+	text-transform: uppercase;
+}
+
+
+

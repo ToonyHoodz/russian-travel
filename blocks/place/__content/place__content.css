@@ -1,0 +1,9 @@
+.place__content{
+	display: inherit;
+}
+
+@media screen and (max-width: 650px) {
+	.place__content{
+		flex-direction: column;
+	}
+}
