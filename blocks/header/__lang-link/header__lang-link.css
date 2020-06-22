@@ -1,7 +1,7 @@
 @import url(./_active/header__lang-link_active.css);
 
 .header__lang-link{
-	font-family: 'Inter';
+	font-family: 'Inter', "Arial", sans-serif;
 	font-style: normal;
 	margin-left: 18px;
 	font-weight: 400;
