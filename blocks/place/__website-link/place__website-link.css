@@ -10,6 +10,5 @@
 }
 
 .place__website-link:hover {
-	color: #AAA;
-	text-decoration-line: underline;
+	opacity: 0.8;
 }

@@ -12,7 +12,7 @@
 }
 
 .header__lang-link:hover {
-  color: #AAA;
+	opacity: 0.8;
 }
 
 @media screen and (max-width: 320px) {
