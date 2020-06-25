@@ -1,7 +1,6 @@
 @import url(./__link/cover__link.css);
 @import url(./__subtitle/cover__subtitle.css);
 @import url(./__title/cover__title.css);
-@import url(./__background-image/cover__background-image.css);
 
 .cover{
 	margin: 92px auto;
@@ -14,16 +13,7 @@
 	overflow: hidden;
 }
 
-@media screen and (max-width: 1024px){
- 	.cover{
- 	}
- }
 
- @media screen and (max-width: 768px){
- 	.cover{
-
- 	}
- }
 
   @media screen and (max-width: 320px){
  	.cover{

@@ -8,6 +8,8 @@
 	color: #fff;
 	margin: 0 auto;
 	max-width: 360px;
+	z-index: 2;
+	margin: 32px auto 245px;
 }
 
 @media screen and (max-width: 1024px){
