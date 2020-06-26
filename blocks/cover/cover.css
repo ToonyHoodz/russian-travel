@@ -11,13 +11,17 @@
 	flex-direction: column;
 	justify-content: center;
 	overflow: hidden;
+	line-height: 740px;
+	background-image: url(../../sprint-3-images/__background.jpg);
+	background-position: center;
+	background-size: cover;
+}
 }
 
 
 
-  @media screen and (max-width: 320px){
- 	.cover{
- 		margin-bottom: 32px;
- 	}
- }
-
+	@media screen and (max-width: 320px){
+	.cover{
+	margin-bottom: 32px;
+	}
+}
